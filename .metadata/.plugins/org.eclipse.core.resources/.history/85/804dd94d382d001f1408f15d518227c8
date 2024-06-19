@@ -1,0 +1,17 @@
+admin: ''
+application: ''
+boot: ''
+client: ''
+defaultzone: http://localhost:8761/eureka
+endpoints: ''
+eureka: ''
+exposure: ''
+include: '''*'''
+management: ''
+name: GREET-API
+port: 9090
+server: ''
+serviceUrl: ''
+spring: ''
+url: http://localhost:1111/
+web: ''
